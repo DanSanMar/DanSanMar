@@ -28,19 +28,19 @@ Actualmente, estoy profundizando mis conocimientos en **Python** y **Bash Script
 
 ---
 
-### 📊 Mi actividad en GitHub
-
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=DanSanMar&theme=tokyonight&hide_border=true&area=true)
-
----
-
 📫 **¿Quieres conectar?**
 Estoy siempre abierto a aprender, colaborar o recibir feedback sobre mis herramientas. ¡No dudes en contactarme!
 
 * LinkedIn: [www.linkedin.com/in/danielsanchezmartinsdh]
 
-
 ---
 
 > *"La ciberseguridad es un proceso, ID=DanSanMar."*
+
+---
+
+### 📊 Mi actividad en GitHub
+
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=DanSanMar&theme=tokyonight&hide_border=true&area=true)
+
 
