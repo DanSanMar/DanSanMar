@@ -30,18 +30,18 @@ Actualmente, estoy profundizando mis conocimientos en **Python** y **Bash Script
 
 ## 📈 Estadísticas de Aprendizaje
 
-<!-- Aquí puedes añadir widgets de estadísticas de GitHub -->
+<![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSanMar&show_icons=true&theme=radical)>
 
 ---
 
 📫 **¿Quieres conectar?**
 Estoy siempre abierto a aprender de otros, colaborar o recibir feedback sobre mis herramientas. ¡No dudes en contactarme!
 
-* LinkedIn: [Tu enlace aquí]
-* Twitter: [Tu enlace aquí]
+* LinkedIn: [www.linkedin.com/in/danielsanchezmartinsdh]
+
 
 ---
 
 > *"La ciberseguridad es un proceso, ID=DanSanMar."*
 >
-> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSanMar&show_icons=true&theme=radical)
+> 
