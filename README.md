@@ -1,4 +1,4 @@
-# ¡Hola! Soy DanSanMar 👋
+# ¡Hola Mundo! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante apasionado por la **Ciberseguridad** y el **Ethical Hacking**. Mi enfoque principal es aprender haciendo, por lo que dedico mi tiempo a automatizar tareas, mejorar procesos de mantenimiento y desarrollar herramientas que faciliten el reconocimiento y la gestión de sistemas.
 
@@ -28,14 +28,14 @@ Actualmente, estoy profundizando mis conocimientos en **Python** y **Bash Script
 
 ---
 
-## 📈 Estadísticas de Aprendizaje
+### 📊 Mi actividad en GitHub
 
-<![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSanMar&show_icons=true&theme=radical)>
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=DanSanMar&theme=tokyonight&hide_border=true&area=true)
 
 ---
 
 📫 **¿Quieres conectar?**
-Estoy siempre abierto a aprender de otros, colaborar o recibir feedback sobre mis herramientas. ¡No dudes en contactarme!
+Estoy siempre abierto a aprender, colaborar o recibir feedback sobre mis herramientas. ¡No dudes en contactarme!
 
 * LinkedIn: [www.linkedin.com/in/danielsanchezmartinsdh]
 
@@ -43,5 +43,4 @@ Estoy siempre abierto a aprender de otros, colaborar o recibir feedback sobre mi
 ---
 
 > *"La ciberseguridad es un proceso, ID=DanSanMar."*
->
-> 
+
