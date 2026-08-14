@@ -16,8 +16,9 @@ Actualmente, estoy profundizando mis conocimientos en **Python** y **Bash Script
 * **`docker4me`:** Automatización para la gestión de contenedores Docker, facilitando el despliegue y limpieza de entornos de laboratorio.
 * **`move4me`:** Utilidad para exportar e importar configuraciones y aplicaciones entre sistemas Linux, ideal para clonar entornos de estudio rápidamente.
 * **`stk2`:** Herramienta integral de mantenimiento y gestión de sistema, backups, rendimiento, servicios, incluso una pequeña Auditoria de Seguridad. Diseñada para usar de forma regular en la administración de cualquier sistema GNU/Linux.
-* * **`copy4me`:** Un pequeño programa para facilitar la realización de backups, guardando perfiles en .json con las rutas y el modo de copia habitual.
-* * **`note4me`:** Script en bash para gestionar notas fácilmente en la terminal, con una interfaz rápida para creación y visonado gracias a zfz.
+* **`copy4me`:** Un pequeño programa para facilitar la realización de backups, guardando perfiles en .json con las rutas y el modo de copia habitual.
+* **`note4me`:** Script en bash para gestionar notas fácilmente en la terminal, con una interfaz rápida para creación y visonado gracias a zfz.
+* **`shell4me`:** Un auto-configurador inteligente de terminales que detecta automáticamente si estás utilizando Bash o Zsh y despliega un menú ASCII interactivo para activar/desactivar opciones con un solo clic.
 ---
 
 ## 🚀 Tecnologías y Skills
