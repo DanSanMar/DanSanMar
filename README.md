@@ -15,9 +15,9 @@ Actualmente, estoy profundizando mis conocimientos en **Python** y **Bash Script
 * **`scan4me` (Bash & Python GUI):** Herramienta de reconocimiento de red y escaneo de vulnerabilidades. He creado tanto una versión en script de Bash para terminal como una versión más amigable con interfaz gráfica (GUI) en Python.
 * **`docker4me`:** Automatización para la gestión de contenedores Docker, facilitando el despliegue y limpieza de entornos de laboratorio.
 * **`move4me`:** Utilidad para exportar e importar configuraciones y aplicaciones entre sistemas Linux, ideal para clonar entornos de estudio rápidamente.
-* **`tools4me`:** Script de automatización de instalación para configurar mi entorno de trabajo con herramientas esenciales de seguridad (nmap, fzf, wpscan, feroxbuster).
-* **`stk2`:** Herramienta integral de mantenimiento y backup, diseñada para asegurar la integridad de mis datos y configuraciones mientras experimento con nuevas técnicas.
-
+* **`stk2`:** Herramienta integral de mantenimiento y gestión de sistema, backups, rendimiento, servicios, incluso una pequeña Auditoria de Seguridad. Diseñada para usar de forma regular en la administración de cualquier sistema GNU/Linux.
+* * **`copy4me`:** Un pequeño programa para facilitar la realización de backups, guardando perfiles en .json con las rutas y el modo de copia habitual.
+* * **`note4me`:** Script en bash para gestionar notas fácilmente en la terminal, con una interfaz rápida para creación y visonado gracias a zfz.
 ---
 
 ## 🚀 Tecnologías y Skills
