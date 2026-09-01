@@ -42,6 +42,6 @@ Estoy siempre abierto a aprender, colaborar o recibir feedback sobre mis herrami
 
 ### 📊 Mi actividad en GitHub
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=DanSanMar&theme=tokyonight&hide_border=true&area=true)
+![Gráfico de actividad](https://github-activity-graph.vercel.app/graph?username=DanSanMar&theme=tokyonight&hide_border=true&area=true)
 
 
